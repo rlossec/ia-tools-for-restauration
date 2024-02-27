@@ -1,0 +1,7 @@
+/src/.env
+src/data/
+src/results/
+/src/.ipynb_checkpoints/
+/src/trained_model/
+.idea/
+/src/brouillon .ipynb
