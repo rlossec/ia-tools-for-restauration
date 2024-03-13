@@ -6,3 +6,5 @@ src/results/
 .idea/
 /src/brouillon .ipynb
 /.venv/
+/src/Computer_Vision/.ipynb_checkpoints/
+/src/NLP/.ipynb_checkpoints/
